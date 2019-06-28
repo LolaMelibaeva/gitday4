@@ -1,5 +1,5 @@
 # gitday4
 
 hello from branch three
-hi everyone!
+hi everybody!
 what's going?
